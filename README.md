@@ -128,23 +128,3 @@ Mumbai, India
 - Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 Open to Data Analyst, Business Analyst, BI Analyst, and Power BI Developer opportunities.
-
-## AI Assistance Disclosure
-
-AI tools were used to assist with documentation and wording. The project metrics and descriptions are based on the supplied project files; the author is responsible for reviewing and validating the final analysis.
-
-## GitHub Repository Metadata
-
-**Repository name:** `HR-Analytics-Power-BI`
-
-**Suggested repository description:**
-
-> HR Analytics Power BI dashboard analyzing 5,000 synthetic employee records across workforce headcount, salary, bonuses, performance, training, and attrition using DAX and Excel.
-
-**Recommended GitHub topics:**
-
-`power-bi` `hr-analytics` `human-resources-analytics` `workforce-analytics` `employee-attrition` `data-analytics` `dax` `microsoft-excel` `business-intelligence` `dashboard` `Altamash-Analyst`
-
----
-
-*Portfolio project for demonstrating HR analytics, dashboard design, data modeling, and business intelligence skills.*
