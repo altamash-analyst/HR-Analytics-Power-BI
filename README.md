@@ -33,27 +33,27 @@ This project demonstrates how **Power BI, DAX, Excel, and data modeling** can tu
 ### 1. HR Overview
 Provides a high-level view of headcount, compensation, attrition, performance, training, age, tenure, and workforce composition.
 
-![HR Overview](Dashboard/Dashboard 1.PNG)
+![HR Overview](screenshots/hr-overview.png)
 
 ### 2. Employee & Department Analysis
 Explores workforce distribution by department and region, with demographic and job-related breakdowns.
 
-![Employee & Department Analysis](Dashboard/Dashboard 2.PNG)
+![Employee & Department Analysis](screenshots/employee-department-analysis.png)
 
 ### 3. Salary & Compensation
 Compares total and average salary, median salary, bonuses, bonus-to-salary ratio, and compensation across departments.
 
-![Salary & Compensation](Dashboard/salary-compensation.png)
+![Salary & Compensation](screenshots/salary-compensation.png)
 
 ### 4. Performance & Training
 Reviews employee performance-score distribution and training hours across departments.
 
-![Performance & Training](Dashboard/performance-training.png)
+![Performance & Training](screenshots/performance-training.png)
 
 ### 5. Attrition & Management
 Examines attrition levels and supporting workforce indicators to help identify areas for further HR investigation.
 
-![Attrition & Management](Dashboard/attrition-management.png)
+![Attrition & Management](screenshots/attrition-management.png)
 
 ## Selected Insights
 
