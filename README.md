@@ -38,22 +38,22 @@ Provides a high-level view of headcount, compensation, attrition, performance, t
 ### 2. Employee & Department Analysis
 Explores workforce distribution by department and region, with demographic and job-related breakdowns.
 
-![Employee & Department Analysis](Dashboard/Dashboard2.png)
+![Employee & Department Analysis](Dashboard/Dashboard2.PNG)
 
 ### 3. Salary & Compensation
 Compares total and average salary, median salary, bonuses, bonus-to-salary ratio, and compensation across departments.
 
-![Salary & Compensation](Dashboard/Dashboard3.png)
+![Salary & Compensation](Dashboard/Dashboard3.PNG)
 
 ### 4. Performance & Training
 Reviews employee performance-score distribution and training hours across departments.
 
-![Performance & Training](Dashboard/Dashboard4.png)
+![Performance & Training](Dashboard/Dashboard4.PNG)
 
 ### 5. Attrition & Management
 Examines attrition levels and supporting workforce indicators to help identify areas for further HR investigation.
 
-![Attrition & Management](Dashboard/Dashboard5.png)
+![Attrition & Management](Dashboard/Dashboard5.PNG)
 
 ## Selected Insights
 
