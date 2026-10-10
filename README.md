@@ -38,7 +38,7 @@ Provides a high-level view of headcount, compensation, attrition, performance, t
 ### 2. Employee & Department Analysis
 Explores workforce distribution by department and region, with demographic and job-related breakdowns.
 
-![Employee & Department Analysis](Dashboard/employee-department-analysis.png)
+![Employee & Department Analysis](Dashboard/Dashboard.png)
 
 ### 3. Salary & Compensation
 Compares total and average salary, median salary, bonuses, bonus-to-salary ratio, and compensation across departments.
