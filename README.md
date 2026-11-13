@@ -129,4 +129,5 @@ Mumbai, India
 - Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 - **LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Open to Data Analyst, Business Analyst, BI Analyst, and Power BI Developer opportunities.
